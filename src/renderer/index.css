@@ -1,0 +1,12 @@
+html {
+	-webkit-app-region: drag;
+	-webkit-user-select: none;
+	padding: 0;
+	opacity:0.4;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+

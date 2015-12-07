@@ -1,0 +1,18 @@
+{
+  "name": "rize-transparent-player",
+  "version": "1.0.0",
+  "description": "リゼ先輩のための透過型プレイヤーのサンプル",
+  "main": "src/browser/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron src/browser/index.js"
+  },
+  "keywords": [],
+  "author": "sharo",
+  "license": "Apache",
+  "dependencies": {
+    "electron-prebuilt": "0.35.4",
+    "node-ffprobe": "1.2.2",
+    "nodobjc": "git+https://github.com/TooTallNate/NodObjC.git#e4e3e2fac301fb3f5eb0bc4714850f6b7b1db29d"
+  }
+}
