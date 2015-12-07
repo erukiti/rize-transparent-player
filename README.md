@@ -4,10 +4,14 @@
 
 ## 動かし方
 
-[Node.js](https://nodejs.org/)をインストールしていること前提です。
+[Node.js](https://nodejs.org/)とffmpegをインストールしていること前提です。
 
-```
+```sh
 $ npm i
 $ npm start <動画ファイル名>
+```
+
+```sh
+$ brew install ffmpeg
 ```
 
